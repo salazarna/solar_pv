@@ -1,2 +1,3 @@
-# SolarPV
-Solar PV master research.
+# Photovoltaic Solar Energy
+
+Photovoltaic solar energy research.
